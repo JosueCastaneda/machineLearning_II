@@ -1,0 +1,13 @@
+v 1 A
+v 2 B
+v 3 A
+v 4 B
+v 5 B
+v 6 A
+u 1 2 a
+u 1 5 a
+u 2 3 c
+u 2 5 a
+u 2 6 a
+u 3 4 b
+u 4 6 a

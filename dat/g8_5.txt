@@ -1,0 +1,28 @@
+v 1 A
+v 2 B
+v 3 A
+v 4 B
+v 5 A
+v 6 A
+v 7 B
+v 8 A
+u 1 2 c
+u 1 4 c
+u 1 6 a
+u 1 7 c
+u 1 8 a
+u 2 3 a
+u 2 5 a 
+u 2 7 b
+u 2 8 a
+u 3 4 a
+u 3 5 a
+u 3 6 b
+u 3 8 a
+u 4 5 a
+u 4 6 c
+u 4 7 b
+u 5 6 c
+u 5 8 b
+u 6 7 a
+u 7 8 b
